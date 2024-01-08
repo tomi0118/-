@@ -20,7 +20,7 @@
 
 3 database.ymlをコピーする
 
-4 database.ymlの中にMYSQLのバスワードと、socketファイルのファイルパスを入力する。socketのファイルパスの確認は、cat /etc/my.cnfで確認
+4 database.ymlの中にMySQLのバスワードと、socketファイルのファイルパスを入力する。socketのファイルパスの確認は、cat /etc/my.cnfで確認
 
  ※以下cat /etc/my.cnfの説明
 
