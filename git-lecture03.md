@@ -33,7 +33,7 @@
      ※以下bin/setupの説明
      bin/setupは、Railsプロジェクトや他の一部の開発環境で使用されるスクリプトです。通常、これはRailsアプリケーションの初回のセットアップを行うために使用されます。
 
-     ６ cloud９上でアプリケーションを起動するために、bin/cloud9_devを実行
+６ cloud９上でアプリケーションを起動するために、bin/cloud9_devを実行
      ※blocked hostとエラーで出てしまった場合、一旦control+cでアプリケーションを停止して、そこに記載しているurlをdevelopment.rdの最後の行に貼り付けて再度実行すると、エラーが解消される。
 
 ![サンプルアプリ](image/lecture03-1.png)
