@@ -24,7 +24,7 @@
 
 ## 3.　RDSの構築
 
-![EC2](image/lecture04-6(RDS).png)
+![EC2](image/lecture04-6(rds).png)
 
 ## 4.　EC2からRDSへ接続
 
